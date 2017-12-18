@@ -1,0 +1,12 @@
+{
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "title": "The Realm of Aleria",
+      "name": "The Realm of Aleria",
+      "version": "1.0",
+      "location": "aleria-modpack.json",
+      "priority": 0
+    }
+  ]
+}
